@@ -51,7 +51,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family:'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ƒqƒ‰ƒMƒmŠpƒS ProN W3', Meiryo, ƒƒCƒŠƒI, sans-serif;
   font-weight: 400;
   color: #666;
 }
@@ -66,18 +66,18 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family:'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ƒqƒ‰ƒMƒmŠpƒS ProN W3', Meiryo, ƒƒCƒŠƒI, sans-serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
 header h1 {
   letter-spacing: -1px;
-  font-size: 72px;
+  font-size: 60px;
   color: #fff;
   line-height: 1;
   margin-bottom: 0.2em;
-  width: 540px;
+  width: 800px;
 }
 
 header h2 {
@@ -252,7 +252,7 @@ form {
 }
 
 #main-content h3 {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family:'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ƒqƒ‰ƒMƒmŠpƒS ProN W3', Meiryo, ƒƒCƒŠƒI, sans-serif;
   font-size: 18px;
   font-weight: bold;
   margin-top: 24px;
